@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/object-detection-website/static/css/main.3e33cc71.chunk.css",
+    "main.js": "/object-detection-website/static/js/main.75b9fac9.chunk.js",
+    "main.js.map": "/object-detection-website/static/js/main.75b9fac9.chunk.js.map",
+    "runtime-main.js": "/object-detection-website/static/js/runtime-main.9559dbb3.js",
+    "runtime-main.js.map": "/object-detection-website/static/js/runtime-main.9559dbb3.js.map",
+    "static/js/2.7c38be17.chunk.js": "/object-detection-website/static/js/2.7c38be17.chunk.js",
+    "static/js/2.7c38be17.chunk.js.map": "/object-detection-website/static/js/2.7c38be17.chunk.js.map",
+    "static/js/3.287fdeef.chunk.js": "/object-detection-website/static/js/3.287fdeef.chunk.js",
+    "static/js/3.287fdeef.chunk.js.map": "/object-detection-website/static/js/3.287fdeef.chunk.js.map",
+    "index.html": "/object-detection-website/index.html",
+    "static/css/main.3e33cc71.chunk.css.map": "/object-detection-website/static/css/main.3e33cc71.chunk.css.map",
+    "static/js/2.7c38be17.chunk.js.LICENSE.txt": "/object-detection-website/static/js/2.7c38be17.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/object-detection-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9559dbb3.js",
+    "static/js/2.7c38be17.chunk.js",
+    "static/css/main.3e33cc71.chunk.css",
+    "static/js/main.75b9fac9.chunk.js"
+  ]
+}
